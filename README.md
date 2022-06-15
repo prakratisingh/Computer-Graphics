@@ -12,6 +12,6 @@
 ## EXP 4 ##
 1: Boundary Fill - 4 connected approach. <br/>
 2: Boundary Fill - 8 connected approach. <br/>
-3: Flood Fill – 4-connected approach. <br/>
-4: Flood Fill – 8-connected approach. <br/>
+3: Flood Fill - 4-connected approach. <br/>
+4: Flood Fill - 8-connected approach. <br/>
 
