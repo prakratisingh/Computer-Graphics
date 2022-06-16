@@ -14,4 +14,7 @@
 2: Boundary Fill - 8 connected approach. <br/>
 3: Flood Fill - 4 connected approach. <br/>
 4: Flood Fill - 8 connected approach. <br/>
-
+## EXP 5 ##
+1: Line clipping using Cohen Sutherland line clipping algorithm. <br/>
+2: Line clipping using Liang-Barsky line clipping algorithm. <br/>
+3: Polygon clipping using Sutherland – Hodgeman polygon clipping algorithm. <br/>
