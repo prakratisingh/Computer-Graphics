@@ -18,3 +18,9 @@
 1: Line clipping using Cohen Sutherland line clipping algorithm. <br/>
 2: Line clipping using Liang-Barsky line clipping algorithm. <br/>
 3: Polygon clipping using Sutherland – Hodgeman polygon clipping algorithm. <br/>
+## EXP 7 ##
+1: 2D Rotation. <br/>
+2: 2D Scaling. <br/>
+3: 2D Shearing. </br>
+4: 2D Reflection. <br/>
+5: 2D Translation. <br/>
