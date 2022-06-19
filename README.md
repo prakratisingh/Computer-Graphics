@@ -18,6 +18,8 @@
 1: Line clipping using Cohen Sutherland line clipping algorithm. <br/>
 2: Line clipping using Liang-Barsky line clipping algorithm. <br/>
 3: Polygon clipping using Sutherland – Hodgeman polygon clipping algorithm. <br/>
+## EXP 6 ##
+1: Drawing a bezier curve. <br/>
 ## EXP 7 ##
 1: 2D Rotation. <br/>
 2: 2D Scaling. <br/>
